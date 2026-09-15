@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "product": "com.zick.editkit.panel",
+  "channel": "stable",
+  "version": "1.0.4",
+  "publishedAt": "2026-09-15T16:20:52Z",
+  "minimumUpdater": "1.0.0",
+  "notes": "",
+  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.4/EditKit-1.0.4.zip",
+  "sha256": "2fad5c80e8b0313b571dc46703d1967286b86aabd487adb29f15f52e24958f4b",
+  "package": {
+    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.4/EditKit-1.0.4.zip",
+    "bytes": 491345,
+    "sha256": "2fad5c80e8b0313b571dc46703d1967286b86aabd487adb29f15f52e24958f4b"
+  },
+  "releaseNotes": {
+    "es": "Nuevo sistema de distribución protegido: código ofuscado, paquete ZXP firmado e instalador para Windows.",
+    "en": "New protected distribution workflow: obfuscated code, signed ZXP package, and Windows installer."
+  },
+  "releasePage": "https://zickfx.com/b/editkit/"
+}
