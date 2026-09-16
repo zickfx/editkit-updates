@@ -2,20 +2,20 @@
   "schema": 1,
   "product": "com.zick.editkit.panel",
   "channel": "stable",
-  "version": "1.0.4",
-  "publishedAt": "2026-09-15T16:20:52Z",
+  "version": "1.0.5",
+  "publishedAt": "2026-09-16T02:29:07Z",
   "minimumUpdater": "1.0.0",
   "notes": "",
-  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.4/EditKit-1.0.4.zip",
-  "sha256": "2fad5c80e8b0313b571dc46703d1967286b86aabd487adb29f15f52e24958f4b",
+  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.5/EditKit-1.0.5.zip",
+  "sha256": "9d64bec0efe704c6f11422b26e8a1c01e32c359abb12d9d06e3558fbe349ba56",
   "package": {
-    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.4/EditKit-1.0.4.zip",
-    "bytes": 491345,
-    "sha256": "2fad5c80e8b0313b571dc46703d1967286b86aabd487adb29f15f52e24958f4b"
+    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.5/EditKit-1.0.5.zip",
+    "bytes": 501726,
+    "sha256": "9d64bec0efe704c6f11422b26e8a1c01e32c359abb12d9d06e3558fbe349ba56"
   },
   "releaseNotes": {
-    "es": "Nuevo sistema de distribución protegido: código ofuscado, paquete ZXP firmado e instalador para Windows.",
-    "en": "New protected distribution workflow: obfuscated code, signed ZXP package, and Windows installer."
+    "es": "Ahora puedes enviar ideas, problemas y comentarios directamente desde Ajustes > Comunidad. El formulario respeta el idioma de EditKit y nunca envía proyectos, presets ni configuraciones.",
+    "en": "You can now send ideas, problems, and comments directly from Settings > Community. The form follows the EditKit language and never sends projects, presets, or settings."
   },
   "releasePage": "https://zickfx.com/b/editkit/"
 }
