@@ -2,20 +2,20 @@
   "schema": 1,
   "product": "com.zick.editkit.panel",
   "channel": "stable",
-  "version": "1.0.5",
-  "publishedAt": "2026-09-16T02:29:07Z",
+  "version": "1.0.6",
+  "publishedAt": "2026-09-16T19:34:58Z",
   "minimumUpdater": "1.0.0",
   "notes": "",
-  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.5/EditKit-1.0.5.zip",
-  "sha256": "9d64bec0efe704c6f11422b26e8a1c01e32c359abb12d9d06e3558fbe349ba56",
+  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.6/EditKit-1.0.6.zip",
+  "sha256": "1b861786f497ef336763e9c1e56132501841edf994551c513614efd6021f08f9",
   "package": {
-    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.5/EditKit-1.0.5.zip",
-    "bytes": 501726,
-    "sha256": "9d64bec0efe704c6f11422b26e8a1c01e32c359abb12d9d06e3558fbe349ba56"
+    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.6/EditKit-1.0.6.zip",
+    "bytes": 501913,
+    "sha256": "1b861786f497ef336763e9c1e56132501841edf994551c513614efd6021f08f9"
   },
   "releaseNotes": {
-    "es": "Ahora puedes enviar ideas, problemas y comentarios directamente desde Ajustes > Comunidad. El formulario respeta el idioma de EditKit y nunca envía proyectos, presets ni configuraciones.",
-    "en": "You can now send ideas, problems, and comments directly from Settings > Community. The form follows the EditKit language and never sends projects, presets, or settings."
+    "es": "QuickIt ahora permite desplazarse por la lista de acciones, muestra el nombre completo de cada función y crea nulos con nombres únicos.",
+    "en": "QuickIt now supports scrolling through the action list, shows every function full name, and creates nulls with unique names."
   },
   "releasePage": "https://zickfx.com/b/editkit/"
 }
