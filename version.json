@@ -2,20 +2,20 @@
   "schema": 1,
   "product": "com.zick.editkit.panel",
   "channel": "stable",
-  "version": "1.0.7",
-  "publishedAt": "2026-09-19T05:48:44Z",
+  "version": "1.0.8",
+  "publishedAt": "2026-09-19T23:03:01Z",
   "minimumUpdater": "1.0.0",
   "notes": "",
-  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.7/EditKit-1.0.7.zip",
-  "sha256": "ce68408cc83b8bf302a75c7456af952dd68448ff4f954882811837cab1bb3edc",
+  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.8/EditKit-1.0.8.zip",
+  "sha256": "7707d40d6563ed1449a6bc1d82deb1f75ba1374d30ade194647eac5e6ff1924a",
   "package": {
-    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.7/EditKit-1.0.7.zip",
-    "bytes": 521372,
-    "sha256": "ce68408cc83b8bf302a75c7456af952dd68448ff4f954882811837cab1bb3edc"
+    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.8/EditKit-1.0.8.zip",
+    "bytes": 520587,
+    "sha256": "7707d40d6563ed1449a6bc1d82deb1f75ba1374d30ade194647eac5e6ff1924a"
   },
   "releaseNotes": {
-    "es": "Nueva personalización de colores y fondos multimedia independientes para EaseIt y AlignIt, con ajustes visuales y navegación mejorada.",
-    "en": "New color customization and independent media backgrounds for EaseIt and AlignIt, with visual refinements and improved settings navigation."
+    "es": "Los perfiles ahora ofrecen una exportación privada que excluye presets, scripts y rutas personales, mientras conserva imágenes, GIF, iconos y URLs multimedia. Se retiró la compatibilidad heredada anterior al lanzamiento.",
+    "en": "Profiles now offer private exports that exclude presets, scripts, and personal paths while preserving images, GIFs, icons, and media URLs. Pre-launch legacy compatibility has been removed."
   },
   "releasePage": "https://zickfx.com/b/editkit/"
 }
