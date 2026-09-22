@@ -2,20 +2,20 @@
   "schema": 1,
   "product": "com.zick.editkit.panel",
   "channel": "stable",
-  "version": "1.0.9",
-  "publishedAt": "2026-09-20T14:49:31Z",
+  "version": "1.0.10",
+  "publishedAt": "2026-09-22T16:43:28Z",
   "minimumUpdater": "1.0.0",
   "notes": "",
-  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.9/EditKit-1.0.9.zip",
-  "sha256": "051a369e1eba10334968523beea1fa9e0d1d30cbb67859b24b0ebb68ba42ae1e",
+  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.10/EditKit-1.0.10.zip",
+  "sha256": "bc231a2fa15ad1a888d5b1127df2819578d4fbc8156d78419d4a10c57b2fd50a",
   "package": {
-    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.9/EditKit-1.0.9.zip",
-    "bytes": 523133,
-    "sha256": "051a369e1eba10334968523beea1fa9e0d1d30cbb67859b24b0ebb68ba42ae1e"
+    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.10/EditKit-1.0.10.zip",
+    "bytes": 532174,
+    "sha256": "bc231a2fa15ad1a888d5b1127df2819578d4fbc8156d78419d4a10c57b2fd50a"
   },
   "releaseNotes": {
-    "es": "Basic es ahora el perfil de fábrica y la configuración inicial de EditKit. Conserva el diseño y los ajustes de los tres paneles sin incluir presets, scripts, efectos de terceros, rutas personales ni contenido multimedia.",
-    "en": "Basic is now EditKit's built-in profile and initial configuration. It preserves the layout and settings of all three panels without including presets, scripts, third-party effects, personal paths, or media."
+    "es": "Nuevo recorrido inicial bilingüe, reordenamiento fluido de ventanas y avisos visuales opcionales cuando hay una actualización disponible.",
+    "en": "New bilingual first-run tour, smooth window reordering, and optional visual alerts when an update is available."
   },
   "releasePage": "https://zickfx.com/b/editkit/"
 }
