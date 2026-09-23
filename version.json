@@ -2,20 +2,20 @@
   "schema": 1,
   "product": "com.zick.editkit.panel",
   "channel": "stable",
-  "version": "1.0.10",
-  "publishedAt": "2026-09-22T16:43:28Z",
+  "version": "1.0.11",
+  "publishedAt": "2026-09-23T21:48:55Z",
   "minimumUpdater": "1.0.0",
   "notes": "",
-  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.10/EditKit-1.0.10.zip",
-  "sha256": "bc231a2fa15ad1a888d5b1127df2819578d4fbc8156d78419d4a10c57b2fd50a",
+  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.11/EditKit-1.0.11.zip",
+  "sha256": "05aba75794bfb581c95deea5cb8a9f50343af8a4a485bdbf406321aaf8942bec",
   "package": {
-    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.10/EditKit-1.0.10.zip",
-    "bytes": 532174,
-    "sha256": "bc231a2fa15ad1a888d5b1127df2819578d4fbc8156d78419d4a10c57b2fd50a"
+    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.11/EditKit-1.0.11.zip",
+    "bytes": 540385,
+    "sha256": "05aba75794bfb581c95deea5cb8a9f50343af8a4a485bdbf406321aaf8942bec"
   },
   "releaseNotes": {
-    "es": "Nuevo recorrido inicial bilingüe, reordenamiento fluido de ventanas y avisos visuales opcionales cuando hay una actualización disponible.",
-    "en": "New bilingual first-run tour, smooth window reordering, and optional visual alerts when an update is available."
+    "es": "Detección inicial del idioma de Adobe o del sistema; selector de idioma visible; navegación de Ajustes más clara.",
+    "en": "Initial Adobe or system language detection; visible language switcher; clearer Settings navigation."
   },
   "releasePage": "https://zickfx.com/b/editkit/"
 }
