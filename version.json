@@ -2,20 +2,20 @@
   "schema": 1,
   "product": "com.zick.editkit.panel",
   "channel": "stable",
-  "version": "1.0.11",
-  "publishedAt": "2026-09-23T21:48:55Z",
+  "version": "1.0.12",
+  "publishedAt": "2026-09-23T23:29:59Z",
   "minimumUpdater": "1.0.0",
   "notes": "",
-  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.11/EditKit-1.0.11.zip",
-  "sha256": "05aba75794bfb581c95deea5cb8a9f50343af8a4a485bdbf406321aaf8942bec",
+  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.12/EditKit-1.0.12.zip",
+  "sha256": "0a6af1a18121cc4b7d13f3da8c262c829ea8c2f67b196d330016815dbb9473df",
   "package": {
-    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.11/EditKit-1.0.11.zip",
-    "bytes": 540385,
-    "sha256": "05aba75794bfb581c95deea5cb8a9f50343af8a4a485bdbf406321aaf8942bec"
+    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.12/EditKit-1.0.12.zip",
+    "bytes": 540414,
+    "sha256": "0a6af1a18121cc4b7d13f3da8c262c829ea8c2f67b196d330016815dbb9473df"
   },
   "releaseNotes": {
-    "es": "Detección inicial del idioma de Adobe o del sistema; selector de idioma visible; navegación de Ajustes más clara.",
-    "en": "Initial Adobe or system language detection; visible language switcher; clearer Settings navigation."
+    "es": "El recorrido inicial ahora termina en Enviar sugerencias y abre directamente el formulario de Comunidad. También unifica y corrige la navegación de ajustes de EaseIt, QuickIt y AlignIt, mantiene alineados los controles en cualquier tamaño, evita compartir el idioma dentro de los perfiles y recupera preferencias faltantes después de una actualización sin sobrescribir las actuales.",
+    "en": "The initial tour now ends at Send suggestions and opens the Community feedback form directly. This release also unifies and fixes settings navigation across EaseIt, QuickIt and AlignIt, keeps controls aligned at every size, excludes language from shared profiles, and restores missing preferences after an update without overwriting current ones."
   },
   "releasePage": "https://zickfx.com/b/editkit/"
 }
