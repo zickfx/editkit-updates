@@ -2,20 +2,20 @@
   "schema": 1,
   "product": "com.zick.editkit.panel",
   "channel": "stable",
-  "version": "1.0.12",
-  "publishedAt": "2026-09-23T23:29:59Z",
+  "version": "1.0.13",
+  "publishedAt": "2026-09-24T17:46:37Z",
   "minimumUpdater": "1.0.0",
   "notes": "",
-  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.12/EditKit-1.0.12.zip",
-  "sha256": "0a6af1a18121cc4b7d13f3da8c262c829ea8c2f67b196d330016815dbb9473df",
+  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.13/EditKit-1.0.13.zip",
+  "sha256": "0afd13d29209324467837a6c0f8848f50bf002355358bf0a8ab9204083e4661b",
   "package": {
-    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.12/EditKit-1.0.12.zip",
-    "bytes": 540414,
-    "sha256": "0a6af1a18121cc4b7d13f3da8c262c829ea8c2f67b196d330016815dbb9473df"
+    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.13/EditKit-1.0.13.zip",
+    "bytes": 540881,
+    "sha256": "0afd13d29209324467837a6c0f8848f50bf002355358bf0a8ab9204083e4661b"
   },
   "releaseNotes": {
-    "es": "El recorrido inicial ahora termina en Enviar sugerencias y abre directamente el formulario de Comunidad. También unifica y corrige la navegación de ajustes de EaseIt, QuickIt y AlignIt, mantiene alineados los controles en cualquier tamaño, evita compartir el idioma dentro de los perfiles y recupera preferencias faltantes después de una actualización sin sobrescribir las actuales.",
-    "en": "The initial tour now ends at Send suggestions and opens the Community feedback form directly. This release also unifies and fixes settings navigation across EaseIt, QuickIt and AlignIt, keeps controls aligned at every size, excludes language from shared profiles, and restores missing preferences after an update without overwriting current ones."
+    "es": "Se corrigió la exportación de perfiles y presets, EaseIt ahora conserva el tamaño configurado de sus presets en paneles estrechos y el botón de actualización solo aparece cuando hay una nueva versión disponible.",
+    "en": "Fixed profile and preset exports, made EaseIt preserve the configured preset size in narrow panels, and ensured the update button only appears when a new version is available."
   },
   "releasePage": "https://zickfx.com/b/editkit/"
 }
