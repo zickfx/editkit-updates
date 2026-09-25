@@ -2,20 +2,20 @@
   "schema": 1,
   "product": "com.zick.editkit.panel",
   "channel": "stable",
-  "version": "1.0.13",
-  "publishedAt": "2026-09-24T17:46:37Z",
+  "version": "1.0.14",
+  "publishedAt": "2026-09-25T01:40:36Z",
   "minimumUpdater": "1.0.0",
   "notes": "",
-  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.13/EditKit-1.0.13.zip",
-  "sha256": "0afd13d29209324467837a6c0f8848f50bf002355358bf0a8ab9204083e4661b",
+  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.14/EditKit-1.0.14.zip",
+  "sha256": "696000c3c9da0316c2b411bfeaf4cfc526d29323fc08a4a9bc5607c73b91b66d",
   "package": {
-    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.13/EditKit-1.0.13.zip",
-    "bytes": 540881,
-    "sha256": "0afd13d29209324467837a6c0f8848f50bf002355358bf0a8ab9204083e4661b"
+    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.14/EditKit-1.0.14.zip",
+    "bytes": 544536,
+    "sha256": "696000c3c9da0316c2b411bfeaf4cfc526d29323fc08a4a9bc5607c73b91b66d"
   },
   "releaseNotes": {
-    "es": "Se corrigió la exportación de perfiles y presets, EaseIt ahora conserva el tamaño configurado de sus presets en paneles estrechos y el botón de actualización solo aparece cuando hay una nueva versión disponible.",
-    "en": "Fixed profile and preset exports, made EaseIt preserve the configured preset size in narrow panels, and ensured the update button only appears when a new version is available."
+    "es": "QuickIt incorpora organización automática del proyecto, botones redimensionables, desplazamiento con rueda al reorganizar y un recorrido inicial mejorado. También se corrigieron los falsos positivos de algunos analizadores de seguridad.",
+    "en": "QuickIt adds automatic project organization, resizable buttons, wheel scrolling while reordering, and an improved onboarding tour. False positives reported by some security scanners were also resolved."
   },
   "releasePage": "https://zickfx.com/b/editkit/"
 }
