@@ -2,20 +2,20 @@
   "schema": 1,
   "product": "com.zick.editkit.panel",
   "channel": "stable",
-  "version": "1.0.17",
-  "publishedAt": "2026-09-30T18:19:54Z",
+  "version": "1.0.18",
+  "publishedAt": "2026-10-01T19:09:45Z",
   "minimumUpdater": "1.0.0",
   "notes": "",
-  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.17/EditKit-1.0.17.zip",
-  "sha256": "a3767ebe6579acad7df3f63204f1fbc44e817fd663be853859f2fb522290f4cd",
+  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.18/EDITKIT-1.0.18.zip",
+  "sha256": "2e28ab9f3ae6d0fcbcb5c8bdd74d8911874fea6cf926f65bab48012ebc9b8ed1",
   "package": {
-    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.17/EditKit-1.0.17.zip",
-    "bytes": 650006,
-    "sha256": "a3767ebe6579acad7df3f63204f1fbc44e817fd663be853859f2fb522290f4cd"
+    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.18/EDITKIT-1.0.18.zip",
+    "bytes": 663696,
+    "sha256": "2e28ab9f3ae6d0fcbcb5c8bdd74d8911874fea6cf926f65bab48012ebc9b8ed1"
   },
   "releaseNotes": {
-    "es": "QuickIt incorpora un nuevo flujo de audio, botones de audio en Nuevas funciones e iconos opcionales para sus 41 acciones nativas, manteniendo las abreviaturas como modo predeterminado. También se añadieron pistas contextuales accionables, mejoras en la distribución inteligente y correcciones para Ajustar al largo de cada capa y el enlace de Discord.",
-    "en": "QuickIt adds a new audio workflow, audio buttons under New features, and optional icons for all 41 built-in actions while keeping abbreviations as the default. This release also adds actionable contextual hints, improves Smart layout distribution, and fixes Fit to each layer length persistence and the Discord invitation."
+    "es": "EaseCopy permite copiar por separado curvas y valores. QuickIt incorpora Pegar y ajustar, el flujo de audio, búsqueda de efectos y presets, parallax automático, iconos opcionales y una nueva capa de texto nativa centrada. También llegan pistas contextuales accionables, avisos de novedades no invasivos, mejoras responsivas y una instalación CEP más compatible.",
+    "en": "EaseCopy can copy easing and values separately. QuickIt adds Paste & Fit, the audio workflow, effect and preset search, automatic parallax, optional icons, and a new centred native text layer. This release also adds actionable contextual hints, non-intrusive what's-new notices, responsive improvements, and broader CEP installation compatibility."
   },
   "releasePage": "https://zickfx.com/b/editkit/"
 }
