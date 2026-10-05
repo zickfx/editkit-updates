@@ -2,20 +2,21 @@
   "schema": 1,
   "product": "com.zick.editkit.panel",
   "channel": "stable",
-  "version": "1.0.18",
-  "publishedAt": "2026-10-01T19:09:45Z",
+  "version": "1.0.19",
+  "publishedAt": "2026-10-05T05:38:07Z",
   "minimumUpdater": "1.0.0",
   "notes": "",
-  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.18/EDITKIT-1.0.18.zip",
-  "sha256": "2e28ab9f3ae6d0fcbcb5c8bdd74d8911874fea6cf926f65bab48012ebc9b8ed1",
+  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.19/EDITKIT-1.0.19.zip",
+  "sha256": "cf17f22028947a648c3cd4630c392c311fc964d25e842d0100e129c417d1eeb9",
   "package": {
-    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.18/EDITKIT-1.0.18.zip",
-    "bytes": 663696,
-    "sha256": "2e28ab9f3ae6d0fcbcb5c8bdd74d8911874fea6cf926f65bab48012ebc9b8ed1"
+    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.19/EDITKIT-1.0.19.zip",
+    "bytes": 744068,
+    "sha256": "cf17f22028947a648c3cd4630c392c311fc964d25e842d0100e129c417d1eeb9"
   },
   "releaseNotes": {
-    "es": "EaseCopy permite copiar por separado curvas y valores. QuickIt incorpora Pegar y ajustar, el flujo de audio, búsqueda de efectos y presets, parallax automático, iconos opcionales y una nueva capa de texto nativa centrada. También llegan pistas contextuales accionables, avisos de novedades no invasivos, mejoras responsivas y una instalación CEP más compatible.",
-    "en": "EaseCopy can copy easing and values separately. QuickIt adds Paste & Fit, the audio workflow, effect and preset search, automatic parallax, optional icons, and a new centred native text layer. This release also adds actionable contextual hints, non-intrusive what's-new notices, responsive improvements, and broader CEP installation compatibility."
+    "es": "Ahora puedes copiar por separado el easing y los valores de los fotogramas clave. EDITKIT incorpora una traducción completa al portugués de Brasil con detección y selector rápido de idioma. QuickIt añade Pegar y ajustar, flujo de audio, búsqueda de efectos y presets, parallax automático, iconos opcionales y una nueva capa de texto nativa centrada. También llegan pistas contextuales accionables, avisos de novedades discretos, mejoras responsivas e instaladores CEP más compatibles.",
+    "en": "You can now copy keyframe easing and values separately. EDITKIT adds a complete Brazilian Portuguese translation with automatic detection and a quick language selector. QuickIt adds Paste & Fit, the audio workflow, effect and preset search, automatic parallax, optional icons, and a new centred native text layer. This release also adds actionable contextual hints, discreet what's-new notices, responsive improvements, and broader CEP installer compatibility.",
+    "pt-BR": "Agora você pode copiar separadamente o easing e os valores dos keyframes. O EDITKIT passa a ter tradução completa para português do Brasil, com detecção automática e seletor rápido de idioma. O QuickIt ganha Colar e ajustar, fluxo de áudio, busca de efeitos e presets, parallax automático, ícones opcionais e uma nova camada de texto nativa centralizada. Também chegam dicas contextuais com ações, avisos discretos de novidades, melhorias responsivas e instaladores CEP mais compatíveis."
   },
   "releasePage": "https://zickfx.com/b/editkit/"
 }
