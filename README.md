@@ -14,7 +14,7 @@
 
 EDITKIT brings animation curves, everyday editing actions and layer alignment into one Adobe CEP panel. Built by **Zick**, free for personal and commercial projects.
 
-<img src="assets/readme/editkit-tools.png" alt="Three tools: EaseIt for animation curves, QuickIt for everyday actions, AlignIt for layer alignment and anchor points." width="100%">
+<img src="assets/readme/editkit-tools.png" alt="The official EaseIt, QuickIt and AlignIt icons, as shown in EDITKIT settings." width="100%">
 
 ### EaseIt · Shape the motion
 
