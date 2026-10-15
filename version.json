@@ -2,21 +2,20 @@
   "schema": 1,
   "product": "com.zick.editkit.panel",
   "channel": "stable",
-  "version": "1.0.19",
-  "publishedAt": "2026-10-05T05:38:07Z",
+  "version": "1.0.20",
+  "draft": false,
   "minimumUpdater": "1.0.0",
-  "notes": "",
-  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.19/EDITKIT-1.0.19.zip",
-  "sha256": "cf17f22028947a648c3cd4630c392c311fc964d25e842d0100e129c417d1eeb9",
+  "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.20/EDITKIT-1.0.20.zip",
+  "sha256": "73dfe640bf8cc7e33795901c2d2cbaaf0c728ec4a8926cc29426b6a79c575327",
   "package": {
-    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.19/EDITKIT-1.0.19.zip",
-    "bytes": 744068,
-    "sha256": "cf17f22028947a648c3cd4630c392c311fc964d25e842d0100e129c417d1eeb9"
+    "url": "https://github.com/zickfx/editkit-updates/releases/download/v1.0.20/EDITKIT-1.0.20.zip",
+    "bytes": 1111453,
+    "sha256": "73dfe640bf8cc7e33795901c2d2cbaaf0c728ec4a8926cc29426b6a79c575327"
   },
   "releaseNotes": {
-    "es": "Ahora puedes copiar por separado el easing y los valores de los fotogramas clave. EDITKIT incorpora una traducción completa al portugués de Brasil con detección y selector rápido de idioma. QuickIt añade Pegar y ajustar, flujo de audio, búsqueda de efectos y presets, parallax automático, iconos opcionales y una nueva capa de texto nativa centrada. También llegan pistas contextuales accionables, avisos de novedades discretos, mejoras responsivas e instaladores CEP más compatibles.",
-    "en": "You can now copy keyframe easing and values separately. EDITKIT adds a complete Brazilian Portuguese translation with automatic detection and a quick language selector. QuickIt adds Paste & Fit, the audio workflow, effect and preset search, automatic parallax, optional icons, and a new centred native text layer. This release also adds actionable contextual hints, discreet what's-new notices, responsive improvements, and broader CEP installer compatibility.",
-    "pt-BR": "Agora você pode copiar separadamente o easing e os valores dos keyframes. O EDITKIT passa a ter tradução completa para português do Brasil, com detecção automática e seletor rápido de idioma. O QuickIt ganha Colar e ajustar, fluxo de áudio, busca de efeitos e presets, parallax automático, ícones opcionais e uma nova camada de texto nativa centralizada. Também chegam dicas contextuais com ações, avisos discretos de novidades, melhorias responsivas e instaladores CEP mais compatíveis."
+    "es": "Nuevo tema y ajustes compactos; colecciones, expresiones y scripts propios en QuickIt; Auto Fade con marcadores y secuenciación; Anchor Layer/Mask; selector de seis idiomas y novedades enriquecidas. Conjuntos reutilizables de capas de ajuste con miniatura, guía y carpeta común, solo Windows/After Effects. Mejoras de privacidad, respaldos de instalación y actualizaciones firmadas.",
+    "en": "Refreshed theme and compact settings; QuickIt collections, custom expressions and pasted scripts; marker-driven Auto Fade and layer sequencing; Anchor Layer/Mask; six-language menu and rich news. Reusable adjustment-layer sets with thumbnails, a guide and shared storage, Windows/After Effects only. Privacy, installer backup and signed-update improvements.",
+    "pt-BR": "Tema renovado e configurações compactas; coleções, expressões e scripts próprios no QuickIt; Auto Fade com marcadores e sequenciamento; Anchor Layer/Mask; menu de seis idiomas e novidades enriquecidas. Conjuntos reutilizáveis de camadas de ajuste com miniatura, guia e pasta comum, apenas Windows/After Effects. Melhorias de privacidade, backup de instalação e atualizações assinadas."
   },
   "releasePage": "https://zickfx.com/b/editkit/"
 }
