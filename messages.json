@@ -1,0 +1,441 @@
+{
+  "schema": 2,
+  "product": "com.zick.editkit.panel",
+  "messages": [
+    {
+      "id": "editkit-110-nuevas-herramientas",
+      "revision": 1,
+      "priority": "normal",
+      "publishedAt": "2026-10-19T15:10:38.350Z",
+      "startsAt": "2026-10-18T00:00:00Z",
+      "expiresAt": "2027-01-31T23:59:59Z",
+      "minVersion": "1.0.20",
+      "hosts": [
+        "AEFT"
+      ],
+      "title": {
+        "es": "EDITKIT 1.1.0: nuevas herramientas, más libertad",
+        "en": "EDITKIT 1.1.0: new tools, more freedom",
+        "pt-BR": "EDITKIT 1.1.0: novas ferramentas, mais liberdade",
+        "fr": "EDITKIT 1.1.0 : nouveaux outils, plus de liberté",
+        "de": "EDITKIT 1.1.0: neue Werkzeuge, mehr Freiheit",
+        "it": "EDITKIT 1.1.0: nuovi strumenti, più libertà"
+      },
+      "body": {
+        "es": "EDITKIT 1.1.0: nuevas herramientas de audio, movimiento y subtítulos, y una biblioteca de presets reutilizables.",
+        "en": "EDITKIT 1.1.0: new audio, motion and caption tools, plus a reusable preset library.",
+        "pt-BR": "EDITKIT 1.1.0: novas ferramentas de áudio, movimento e legendas, além de uma biblioteca de presets.",
+        "fr": "EDITKIT 1.1.0 : outils audio, mouvement et sous-titres, avec une bibliothèque de préréglages.",
+        "de": "EDITKIT 1.1.0: neue Audio-, Bewegungs- und Untertitelwerkzeuge sowie eine Vorgabenbibliothek.",
+        "it": "EDITKIT 1.1.0: nuovi strumenti audio, movimento e sottotitoli, con una libreria di predefiniti."
+      },
+      "pages": [
+        {
+          "title": {
+            "es": "EDITKIT 1.1.0: nuevas herramientas, más libertad",
+            "en": "EDITKIT 1.1.0: new tools, more freedom",
+            "pt-BR": "EDITKIT 1.1.0: novas ferramentas, mais liberdade",
+            "fr": "EDITKIT 1.1.0 : nouveaux outils, plus de liberté",
+            "de": "EDITKIT 1.1.0: neue Werkzeuge, mehr Freiheit",
+            "it": "EDITKIT 1.1.0: nuovi strumenti, più libertà"
+          },
+          "blocks": [
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "type": "text",
+                  "text": {
+                    "es": "EDITKIT 1.1.0: nuevas herramientas de audio, movimiento y subtítulos, y una biblioteca de presets reutilizables.",
+                    "en": "EDITKIT 1.1.0: new audio, motion and caption tools, plus a reusable preset library.",
+                    "pt-BR": "EDITKIT 1.1.0: novas ferramentas de áudio, movimento e legendas, além de uma biblioteca de presets.",
+                    "fr": "EDITKIT 1.1.0 : outils audio, mouvement et sous-titres, avec une bibliothèque de préréglages.",
+                    "de": "EDITKIT 1.1.0: neue Audio-, Bewegungs- und Untertitelwerkzeuge sowie eine Vorgabenbibliothek.",
+                    "it": "EDITKIT 1.1.0: nuovi strumenti audio, movimento e sottotitoli, con una libreria di predefiniti."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "image": {
+                "url": "https://raw.githubusercontent.com/zickfx/editkit-updates/main/assets/news/editkit-1.1.0/nuevas-herramientas.png",
+                "alt": {
+                  "es": "BeatIt, BounceIt, CaptionIt",
+                  "en": "BeatIt, BounceIt, CaptionIt",
+                  "pt-BR": "BeatIt, BounceIt, CaptionIt",
+                  "fr": "BeatIt, BounceIt, CaptionIt",
+                  "de": "BeatIt, BounceIt, CaptionIt",
+                  "it": "BeatIt, BounceIt, CaptionIt"
+                }
+              },
+              "caption": {
+                "es": "Captura de EDITKIT 1.1.0 en español. El visor del mensaje respeta tu tema.",
+                "en": "EDITKIT 1.1.0 screenshot in Spanish. The message viewer follows your theme.",
+                "pt-BR": "Captura do EDITKIT 1.1.0 em espanhol. O visualizador da mensagem segue seu tema.",
+                "fr": "Capture d’EDITKIT 1.1.0 en espagnol. Le lecteur du message suit votre thème.",
+                "de": "EDITKIT-1.1.0-Aufnahme auf Spanisch. Die Nachrichtenansicht folgt deinem Design.",
+                "it": "Schermata di EDITKIT 1.1.0 in spagnolo. Il visualizzatore del messaggio segue il tuo tema."
+              }
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "type": "text",
+                  "text": {
+                    "es": "Premiere Pro: EaseIt. Las demás herramientas necesitan After Effects. CaptionIt y separación de voz: Windows.",
+                    "en": "Premiere Pro: EaseIt. Other tools require After Effects. CaptionIt and voice separation: Windows.",
+                    "pt-BR": "Premiere Pro: EaseIt. Outras ferramentas exigem After Effects. CaptionIt e separação de voz: Windows.",
+                    "fr": "Premiere Pro : EaseIt. Les autres outils nécessitent After Effects. CaptionIt et séparation vocale : Windows.",
+                    "de": "Premiere Pro: EaseIt. Andere Werkzeuge benötigen After Effects. CaptionIt und Stimmtrennung: Windows.",
+                    "it": "Premiere Pro: EaseIt. Gli altri strumenti richiedono After Effects. CaptionIt e separazione vocale: Windows."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "type": "text",
+                  "text": {
+                    "es": "macOS sigue experimental y no se ha validado nativamente en esta versión.",
+                    "en": "macOS remains experimental and has not been natively validated for this release.",
+                    "pt-BR": "macOS continua experimental e não foi validado nativamente nesta versão.",
+                    "fr": "macOS reste expérimental et n’a pas été validé nativement pour cette version.",
+                    "de": "macOS bleibt experimentell und wurde für diese Version nicht nativ geprüft.",
+                    "it": "macOS resta sperimentale e non è stato verificato nativamente per questa versione."
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "es": "BeatIt — Encuentra el pulso",
+            "en": "BeatIt — Find the pulse",
+            "pt-BR": "BeatIt — Encontre o ritmo",
+            "fr": "BeatIt — Trouvez le rythme",
+            "de": "BeatIt — Finde den Takt",
+            "it": "BeatIt — Trova il ritmo"
+          },
+          "blocks": [
+            {
+              "type": "image",
+              "image": {
+                "url": "https://raw.githubusercontent.com/zickfx/editkit-updates/main/assets/news/editkit-1.1.0/beatit.png",
+                "alt": {
+                  "es": "BeatIt",
+                  "en": "BeatIt",
+                  "pt-BR": "BeatIt",
+                  "fr": "BeatIt",
+                  "de": "BeatIt",
+                  "it": "BeatIt"
+                }
+              },
+              "caption": {
+                "es": "Captura de EDITKIT 1.1.0 en español. El visor del mensaje respeta tu tema.",
+                "en": "EDITKIT 1.1.0 screenshot in Spanish. The message viewer follows your theme.",
+                "pt-BR": "Captura do EDITKIT 1.1.0 em espanhol. O visualizador da mensagem segue seu tema.",
+                "fr": "Capture d’EDITKIT 1.1.0 en espagnol. Le lecteur du message suit votre thème.",
+                "de": "EDITKIT-1.1.0-Aufnahme auf Spanisch. Die Nachrichtenansicht folgt deinem Design.",
+                "it": "Schermata di EDITKIT 1.1.0 in spagnolo. Il visualizzatore del messaggio segue il tuo tema."
+              }
+            },
+            {
+              "type": "list",
+              "items": [
+                {
+                  "es": "Marca beats en la capa o en la composición, conservando los marcadores existentes.",
+                  "en": "Place beats on the layer or composition while preserving existing markers.",
+                  "pt-BR": "Marque beats na camada ou composição sem apagar marcadores existentes.",
+                  "fr": "Placez des beats sur le calque ou la composition sans effacer les repères.",
+                  "de": "Setze Beats auf Ebene oder Komposition, ohne vorhandene Marker zu löschen.",
+                  "it": "Inserisci beat sul livello o sulla composizione senza cancellare i marcatori."
+                },
+                {
+                  "es": "Una sola guía animada cambia de color o hace Flash; también puedes precomponerla.",
+                  "en": "One animated guide changes color or flashes; optionally precompose it.",
+                  "pt-BR": "Uma única guia animada muda de cor ou faz Flash; você também pode pré-compor.",
+                  "fr": "Un seul guide animé change de couleur ou produit un Flash ; précomposition facultative.",
+                  "de": "Eine animierte Hilfsebene wechselt Farbe oder blinkt; optional vorkomponieren.",
+                  "it": "Una sola guida animata cambia colore o produce Flash; precomposizione facoltativa."
+                },
+                {
+                  "es": "Edita los marcadores de la guía. Descubre la experiencia completa y gratuita en SoundIt.",
+                  "en": "Edit the guide markers. Explore the full free audio experience in SoundIt.",
+                  "pt-BR": "Edite os marcadores da guia. Conheça a experiência completa e gratuita no SoundIt.",
+                  "fr": "Modifiez les repères du guide. Découvrez SoundIt, complet et gratuit.",
+                  "de": "Bearbeite ihre Marker. SoundIt bietet das vollständige kostenlose Audioerlebnis.",
+                  "it": "Modifica i marcatori della guida. Scopri SoundIt, completo e gratuito."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "es": "BounceIt — Dale movimiento",
+            "en": "BounceIt — Give it motion",
+            "pt-BR": "BounceIt — Dê movimento",
+            "fr": "BounceIt — Donnez du mouvement",
+            "de": "BounceIt — Bring Bewegung hinein",
+            "it": "BounceIt — Dai movimento"
+          },
+          "blocks": [
+            {
+              "type": "image",
+              "image": {
+                "url": "https://raw.githubusercontent.com/zickfx/editkit-updates/main/assets/news/editkit-1.1.0/bounceit.png",
+                "alt": {
+                  "es": "BounceIt",
+                  "en": "BounceIt",
+                  "pt-BR": "BounceIt",
+                  "fr": "BounceIt",
+                  "de": "BounceIt",
+                  "it": "BounceIt"
+                }
+              },
+              "caption": {
+                "es": "Captura de EDITKIT 1.1.0 en español. El visor del mensaje respeta tu tema.",
+                "en": "EDITKIT 1.1.0 screenshot in Spanish. The message viewer follows your theme.",
+                "pt-BR": "Captura do EDITKIT 1.1.0 em espanhol. O visualizador da mensagem segue seu tema.",
+                "fr": "Capture d’EDITKIT 1.1.0 en espagnol. Le lecteur du message suit votre thème.",
+                "de": "EDITKIT-1.1.0-Aufnahme auf Spanisch. Die Nachrichtenansicht folgt deinem Design.",
+                "it": "Schermata di EDITKIT 1.1.0 in spagnolo. Il visualizzatore del messaggio segue il tuo tema."
+              }
+            },
+            {
+              "type": "list",
+              "items": [
+                {
+                  "es": "Aplica sobrepaso o rebote a propiedades con al menos dos keyframes.",
+                  "en": "Apply overshoot or bounce to properties with at least two keyframes.",
+                  "pt-BR": "Aplique sobrepassagem ou rebote a propriedades com pelo menos dois keyframes.",
+                  "fr": "Appliquez dépassement ou rebond aux propriétés ayant au moins deux images clés.",
+                  "de": "Überschwingen oder Rückprall für Eigenschaften mit mindestens zwei Keyframes.",
+                  "it": "Applica sorpasso o rimbalzo a proprietà con almeno due fotogrammi chiave."
+                },
+                {
+                  "es": "Ajusta intensidad, frecuencia, amortiguación, duración y dirección desde el panel o la capa.",
+                  "en": "Refine intensity, frequency, decay, duration and direction in the panel or layer controls.",
+                  "pt-BR": "Ajuste intensidade, frequência, amortecimento, duração e direção no painel ou na camada.",
+                  "fr": "Réglez intensité, fréquence, amortissement, durée et direction dans le panneau ou le calque.",
+                  "de": "Stärke, Frequenz, Dämpfung, Dauer und Richtung im Panel oder auf der Ebene einstellen.",
+                  "it": "Regola intensità, frequenza, smorzamento, durata e direzione dal pannello o livello."
+                },
+                {
+                  "es": "La curva y su vista compacta son ejemplos orientativos; tus keyframes determinan el resultado.",
+                  "en": "The graph and compact preview are illustrative; your keyframes determine the result.",
+                  "pt-BR": "A curva e a prévia compacta são ilustrativas; seus keyframes determinam o resultado.",
+                  "fr": "La courbe et l’aperçu compact sont indicatifs ; vos images clés définissent le résultat.",
+                  "de": "Kurve und Kompaktvorschau sind Beispiele; deine Keyframes bestimmen das Ergebnis.",
+                  "it": "La curva e l’anteprima compatta sono indicative; i fotogrammi chiave definiscono il risultato."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "es": "CaptionIt — De voz a texto",
+            "en": "CaptionIt — Speech to text",
+            "pt-BR": "CaptionIt — Da voz ao texto",
+            "fr": "CaptionIt — De la voix au texte",
+            "de": "CaptionIt — Sprache zu Text",
+            "it": "CaptionIt — Dalla voce al testo"
+          },
+          "blocks": [
+            {
+              "type": "image",
+              "image": {
+                "url": "https://raw.githubusercontent.com/zickfx/editkit-updates/main/assets/news/editkit-1.1.0/captionit.png",
+                "alt": {
+                  "es": "CaptionIt",
+                  "en": "CaptionIt",
+                  "pt-BR": "CaptionIt",
+                  "fr": "CaptionIt",
+                  "de": "CaptionIt",
+                  "it": "CaptionIt"
+                }
+              },
+              "caption": {
+                "es": "Captura de EDITKIT 1.1.0 en español. El visor del mensaje respeta tu tema.",
+                "en": "EDITKIT 1.1.0 screenshot in Spanish. The message viewer follows your theme.",
+                "pt-BR": "Captura do EDITKIT 1.1.0 em espanhol. O visualizador da mensagem segue seu tema.",
+                "fr": "Capture d’EDITKIT 1.1.0 en espagnol. Le lecteur du message suit votre thème.",
+                "de": "EDITKIT-1.1.0-Aufnahme auf Spanisch. Die Nachrichtenansicht folgt deinem Design.",
+                "it": "Schermata di EDITKIT 1.1.0 in spagnolo. Il visualizzatore del messaggio segue il tuo tema."
+              }
+            },
+            {
+              "type": "image",
+              "image": {
+                "url": "https://raw.githubusercontent.com/zickfx/editkit-updates/main/assets/news/editkit-1.1.0/caption-acciones.png",
+                "alt": {
+                  "es": "CaptionIt: crear subtítulos y quitar la música",
+                  "en": "CaptionIt: crear subtítulos y quitar la música",
+                  "pt-BR": "CaptionIt: crear subtítulos y quitar la música",
+                  "fr": "CaptionIt: crear subtítulos y quitar la música",
+                  "de": "CaptionIt: crear subtítulos y quitar la música",
+                  "it": "CaptionIt: crear subtítulos y quitar la música"
+                }
+              },
+              "caption": {
+                "es": "Captura de EDITKIT 1.1.0 en español. El visor del mensaje respeta tu tema.",
+                "en": "EDITKIT 1.1.0 screenshot in Spanish. The message viewer follows your theme.",
+                "pt-BR": "Captura do EDITKIT 1.1.0 em espanhol. O visualizador da mensagem segue seu tema.",
+                "fr": "Capture d’EDITKIT 1.1.0 en espagnol. Le lecteur du message suit votre thème.",
+                "de": "EDITKIT-1.1.0-Aufnahme auf Spanisch. Die Nachrichtenansicht folgt deinem Design.",
+                "it": "Schermata di EDITKIT 1.1.0 in spagnolo. Il visualizzatore del messaggio segue il tuo tema."
+              }
+            },
+            {
+              "type": "list",
+              "items": [
+                {
+                  "es": "Transcribe audio o vídeo localmente en Windows y After Effects.",
+                  "en": "Transcribe audio or video locally on Windows and After Effects.",
+                  "pt-BR": "Transcreva áudio ou vídeo localmente no Windows e After Effects.",
+                  "fr": "Transcrivez audio ou vidéo localement sous Windows et After Effects.",
+                  "de": "Audio und Video lokal unter Windows und After Effects transkribieren.",
+                  "it": "Trascrivi audio o video localmente su Windows e After Effects."
+                },
+                {
+                  "es": "Revisa palabras y tiempos antes de insertar los subtítulos; reutiliza estilos y presets.",
+                  "en": "Review words and timing before inserting captions; reuse styles and presets.",
+                  "pt-BR": "Revise palavras e tempos antes de inserir legendas; reutilize estilos e presets.",
+                  "fr": "Révisez mots et temps avant insertion ; réutilisez styles et préréglages.",
+                  "de": "Wörter und Zeiten vor dem Einfügen prüfen; Stile und Vorgaben wiederverwenden.",
+                  "it": "Rivedi parole e tempi prima dell’inserimento; riutilizza stili e predefiniti."
+                },
+                {
+                  "es": "Botón de voz junto a Crear subtítulos: quita la música y crea una capa con la voz, sin transcribir. El original queda silenciado y Ctrl+Z deshace la operación.",
+                  "en": "Voice button next to Create captions: remove music and create a voice layer without transcribing. The original is muted; Ctrl+Z undoes the operation.",
+                  "pt-BR": "Botão de voz ao lado de Criar legendas: remove a música e cria uma camada com a voz, sem transcrever. O original fica mudo; Ctrl+Z desfaz.",
+                  "fr": "Bouton voix à côté de Créer les sous-titres : retire la musique et crée un calque vocal sans transcription. Original muet ; Ctrl+Z annule.",
+                  "de": "Stimmtaste neben Untertitel erstellen: Musik entfernen und eine Stimmebene erstellen, ohne Transkription. Das Original wird stumm; Strg+Z macht den Vorgang rückgängig.",
+                  "it": "Pulsante voce accanto a Crea sottotitoli: rimuove la musica e crea un livello vocale senza trascrizione. Originale silenziato; Ctrl+Z annulla."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "es": "Tu espacio, tus herramientas",
+            "en": "Your workspace, your tools",
+            "pt-BR": "Seu espaço, suas ferramentas",
+            "fr": "Votre espace, vos outils",
+            "de": "Dein Arbeitsbereich, deine Werkzeuge",
+            "it": "Il tuo spazio, i tuoi strumenti"
+          },
+          "blocks": [
+            {
+              "type": "image",
+              "image": {
+                "url": "https://raw.githubusercontent.com/zickfx/editkit-updates/main/assets/news/editkit-1.1.0/seis-paneles.png",
+                "alt": {
+                  "es": "EaseIt, AlignIt, QuickIt, BeatIt, BounceIt, CaptionIt",
+                  "en": "EaseIt, AlignIt, QuickIt, BeatIt, BounceIt, CaptionIt",
+                  "pt-BR": "EaseIt, AlignIt, QuickIt, BeatIt, BounceIt, CaptionIt",
+                  "fr": "EaseIt, AlignIt, QuickIt, BeatIt, BounceIt, CaptionIt",
+                  "de": "EaseIt, AlignIt, QuickIt, BeatIt, BounceIt, CaptionIt",
+                  "it": "EaseIt, AlignIt, QuickIt, BeatIt, BounceIt, CaptionIt"
+                }
+              },
+              "caption": {
+                "es": "Captura de EDITKIT 1.1.0 en español. El visor del mensaje respeta tu tema.",
+                "en": "EDITKIT 1.1.0 screenshot in Spanish. The message viewer follows your theme.",
+                "pt-BR": "Captura do EDITKIT 1.1.0 em espanhol. O visualizador da mensagem segue seu tema.",
+                "fr": "Capture d’EDITKIT 1.1.0 en espagnol. Le lecteur du message suit votre thème.",
+                "de": "EDITKIT-1.1.0-Aufnahme auf Spanisch. Die Nachrichtenansicht folgt deinem Design.",
+                "it": "Schermata di EDITKIT 1.1.0 in spagnolo. Il visualizzatore del messaggio segue il tuo tema."
+              }
+            },
+            {
+              "type": "list",
+              "items": [
+                {
+                  "es": "Paneles libres: combina hasta seis herramientas. Arrastra al centro para intercambiar o a los bordes para añadir. Clic derecho o Esc cancela.",
+                  "en": "Flexible panels: combine up to six tools. Drag to the center to swap or the edges to add. Right-click or Esc cancels.",
+                  "pt-BR": "Painéis livres: combine até seis ferramentas. Arraste ao centro para trocar ou às bordas para adicionar. Botão direito ou Esc cancela.",
+                  "fr": "Panneaux libres : combinez jusqu’à six outils. Glissez au centre pour échanger ou sur les bords pour ajouter. Clic droit ou Échap annule.",
+                  "de": "Freie Panels: bis zu sechs Werkzeuge kombinieren. In die Mitte ziehen zum Tauschen, an die Ränder zum Hinzufügen. Rechtsklick oder Esc bricht ab.",
+                  "it": "Pannelli liberi: combina fino a sei strumenti. Trascina al centro per scambiare o sui bordi per aggiungere. Clic destro o Esc annulla."
+                },
+                {
+                  "es": "Guarda propiedades y conjuntos de capas, organízalos y compártelos como .ekpreset.",
+                  "en": "Save properties and layer sets, organize them and share .ekpreset files.",
+                  "pt-BR": "Salve propriedades e conjuntos de camadas, organize e compartilhe arquivos .ekpreset.",
+                  "fr": "Enregistrez propriétés et ensembles de calques et partagez des fichiers .ekpreset.",
+                  "de": "Eigenschaften und Ebenensätze speichern, ordnen und als .ekpreset teilen.",
+                  "it": "Salva proprietà e insiemi di livelli, organizza e condividi file .ekpreset."
+                },
+                {
+                  "es": "Usa la biblioteca integrada o su ventana flotante. Los botones AEP anteriores se conservan.",
+                  "en": "Use the embedded library or floating window. Existing AEP buttons remain available.",
+                  "pt-BR": "Use a biblioteca integrada ou janela flutuante. Os botões AEP anteriores são preservados.",
+                  "fr": "Bibliothèque intégrée ou fenêtre flottante. Les anciens boutons AEP sont conservés.",
+                  "de": "Integrierte Bibliothek oder separates Fenster. Vorhandene AEP-Schaltflächen bleiben erhalten.",
+                  "it": "Libreria integrata o finestra mobile. I pulsanti AEP esistenti restano disponibili."
+                },
+                {
+                  "es": "Ocho secretos nuevos, 27 en total: nuevas animaciones en los títulos, conservando todos los hallazgos anteriores.",
+                  "en": "Eight new secrets, 27 total: new title animations preserve all previous discoveries.",
+                  "pt-BR": "Oito segredos novos, 27 no total: animações dos títulos preservam as descobertas anteriores.",
+                  "fr": "Huit nouveaux secrets, 27 au total : animations des titres et anciennes découvertes préservées.",
+                  "de": "Acht neue Geheimnisse, insgesamt 27: Titelanimationen erhalten bisherige Funde.",
+                  "it": "Otto nuovi segreti, 27 totali: animazioni dei titoli conservano le scoperte precedenti."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "type": "text",
+                  "text": {
+                    "es": "Gratis y sin cuenta. El audio se procesa localmente; algunos recursos se descargan una vez con tu permiso.",
+                    "en": "Free, no account. Audio is processed locally; some resources download once with your permission.",
+                    "pt-BR": "Grátis, sem conta. O áudio é processado localmente; alguns recursos são baixados uma vez com sua permissão.",
+                    "fr": "Gratuit, sans compte. Audio traité localement ; certaines ressources sont téléchargées avec votre accord.",
+                    "de": "Kostenlos, ohne Konto. Audio wird lokal verarbeitet; zusätzliche Ressourcen werden nur mit Zustimmung geladen.",
+                    "it": "Gratis, senza account. Audio elaborato localmente; alcune risorse si scaricano con il tuo consenso."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "action",
+              "action": {
+                "label": {
+                  "es": "Descargar EDITKIT gratis",
+                  "en": "Download EDITKIT for free",
+                  "pt-BR": "Baixar EDITKIT grátis",
+                  "fr": "Télécharger EDITKIT gratuitement",
+                  "de": "EDITKIT kostenlos herunterladen",
+                  "it": "Scarica EDITKIT gratis"
+                },
+                "url": "https://github.com/zickfx/editkit-updates/releases/tag/v1.1.0"
+              }
+            }
+          ]
+        }
+      ],
+      "action": {
+        "label": {
+          "es": "Descargar EDITKIT gratis",
+          "en": "Download EDITKIT for free",
+          "pt-BR": "Baixar EDITKIT grátis",
+          "fr": "Télécharger EDITKIT gratuitement",
+          "de": "EDITKIT kostenlos herunterladen",
+          "it": "Scarica EDITKIT gratis"
+        },
+        "url": "https://github.com/zickfx/editkit-updates/releases/tag/v1.1.0"
+      }
+    }
+  ]
+}
