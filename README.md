@@ -38,6 +38,10 @@ Align layers and position anchor points with focused, composition-aware controls
 
 > **Which download should I use?** The product page is the starting point for a complete installation. ZIP files in this repository's releases are update packages; they are not necessarily the same bundle as the product-page download. The green **Code → Download ZIP** button downloads this repository, not the plugin installer.
 
+### Open-source status and source availability
+
+The EDITKIT 2.0.0 release notes state that original EDITKIT code is under MIT; third-party components retain their own licenses. This repository, however, contains the update channel and release downloads, not the full development source. The development repository ([zickfx/editkit](https://github.com/zickfx/editkit)) is private, and distributed code is protected/obfuscated. The source corresponding to the published build is therefore not publicly available here for inspection or rebuilding. For now, do not describe this repository as EDITKIT's public source release. A free download and a license statement do not make the matching source tree publicly accessible.
+
 ## Compatibility & support
 
 - **Adobe After Effects:** EaseIt, QuickIt and AlignIt.
@@ -58,6 +62,10 @@ When reporting a problem, include your EDITKIT version, Adobe application/versio
 - **EaseIt:** trabaja con curvas de easing y copia por separado la interpolación y los valores de los fotogramas clave.
 - **QuickIt:** reúne acciones útiles, busca efectos y presets, ejecuta scripts y reduce tareas repetitivas.
 - **AlignIt:** alinea capas y coloca puntos de anclaje. Disponible únicamente en After Effects.
+
+### Estado del código fuente y licencia
+
+Las notas de EDITKIT 2.0.0 declaran que el código propio está bajo MIT; los componentes de terceros conservan sus licencias. Sin embargo, este repositorio contiene el canal de actualización y los paquetes de descarga, no el código fuente completo. El repositorio de desarrollo ([zickfx/editkit](https://github.com/zickfx/editkit)) es privado y el código distribuido está protegido/ofuscado. Por eso, el código fuente correspondiente a la versión publicada no está disponible públicamente aquí para revisarlo o reconstruirlo. Por ahora, no se debe presentar este repositorio como la publicación del código fuente abierto de EDITKIT. Una descarga gratuita y una declaración de licencia no hacen público el árbol de fuentes correspondiente.
 
 **[Descargar EDITKIT gratis →](https://zickfx.com/b/editkit/)**
 
