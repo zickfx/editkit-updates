@@ -436,6 +436,163 @@
         },
         "url": "https://github.com/zickfx/editkit-updates/releases/tag/v1.1.0"
       }
+    },
+    {
+      "id": "editkit-201-actualizacion",
+      "revision": 1,
+      "priority": "normal",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "startsAt": "2026-11-06T00:00:00Z",
+      "expiresAt": "2027-02-04T00:00:00Z",
+      "maxVersion": "2.0.0",
+      "hosts": [
+        "AEFT",
+        "PPRO"
+      ],
+      "title": {
+        "es": "EDITKIT 2.0.1 · Ver novedades",
+        "en": "EDITKIT 2.0.1 · What’s new",
+        "pt-BR": "EDITKIT 2.0.1 · Novidades",
+        "fr": "EDITKIT 2.0.1 · Nouveautés",
+        "de": "EDITKIT 2.0.1 · Neuigkeiten",
+        "it": "EDITKIT 2.0.1 · Novità"
+      },
+      "body": {
+        "es": "EDITKIT 2.0.1 ya está disponible. Consulta las novedades y actualiza desde Ajustes, en Versión, con Buscar actualización.",
+        "en": "EDITKIT 2.0.1 is available. See what’s new, then update in Settings, under Version, using Check for updates.",
+        "pt-BR": "EDITKIT 2.0.1 já está disponível. Veja as novidades e atualize em Configurações, em Versão, usando Buscar atualizações.",
+        "fr": "EDITKIT 2.0.1 est disponible. Découvrez les nouveautés, puis mettez à jour dans Paramètres, section Version, avec Rechercher les mises à jour.",
+        "de": "EDITKIT 2.0.1 ist verfügbar. Sieh dir die Neuerungen an und aktualisiere unter Einstellungen, Bereich Version, mit Nach Updates suchen.",
+        "it": "EDITKIT 2.0.1 è disponibile. Scopri le novità e aggiorna da Impostazioni, sezione Versione, con Cerca aggiornamenti."
+      },
+      "pages": [
+        {
+          "title": {
+            "es": "EaseIt · Curva de velocidad editable",
+            "en": "EaseIt · Editable speed curve",
+            "pt-BR": "EaseIt · Curva de velocidade editável",
+            "fr": "EaseIt · Courbe de vitesse modifiable",
+            "de": "EaseIt · Editierbare Geschwindigkeitskurve",
+            "it": "EaseIt · Curva di velocità modificabile"
+          },
+          "blocks": [
+            {
+              "type": "image",
+              "image": {
+                "url": "https://raw.githubusercontent.com/zickfx/editkit-updates/main/assets/news/editkit-2.0.1/easeit.png",
+                "alt": {
+                  "es": "EaseIt",
+                  "en": "EaseIt",
+                  "pt-BR": "EaseIt",
+                  "fr": "EaseIt",
+                  "de": "EaseIt",
+                  "it": "EaseIt"
+                }
+              }
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "type": "text",
+                  "text": {
+                    "es": "Edita directamente la curva de velocidad y mantenla vinculada a la curva base. El control para cambiar de vista permanece destacado hasta el primer uso.",
+                    "en": "Edit the speed curve directly and keep it linked to the base curve. The view switch stays highlighted until first use.",
+                    "pt-BR": "Edite a curva de velocidade diretamente e mantenha-a vinculada à curva base. O controle de visualização fica destacado até o primeiro uso.",
+                    "fr": "Modifiez directement la courbe de vitesse tout en la gardant liée à la courbe de base. Le changement de vue reste mis en évidence jusqu’à la première utilisation.",
+                    "de": "Bearbeite die Geschwindigkeitskurve direkt und halte sie mit der Basiskurve verknüpft. Die Ansichtssteuerung bleibt bis zur ersten Nutzung hervorgehoben.",
+                    "it": "Modifica direttamente la curva di velocità mantenendola collegata alla curva base. Il comando di visualizzazione resta evidenziato fino al primo utilizzo."
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "es": "AlignIt · Alterna Alinear y Ancla",
+            "en": "AlignIt · Switch between Align and Anchor",
+            "pt-BR": "AlignIt · Alterne entre Alinhar e Âncora",
+            "fr": "AlignIt · Alterner entre Aligner et Ancre",
+            "de": "AlignIt · Zwischen Ausrichten und Anker wechseln",
+            "it": "AlignIt · Passa da Allinea ad Ancora"
+          },
+          "blocks": [
+            {
+              "type": "image",
+              "image": {
+                "url": "https://raw.githubusercontent.com/zickfx/editkit-updates/main/assets/news/editkit-2.0.1/alignit.png",
+                "alt": {
+                  "es": "AlignIt",
+                  "en": "AlignIt",
+                  "pt-BR": "AlignIt",
+                  "fr": "AlignIt",
+                  "de": "AlignIt",
+                  "it": "AlignIt"
+                }
+              }
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "type": "text",
+                  "text": {
+                    "es": "El selector compacto da acceso a ambos modos. El icono indica si el anclaje se mueve respecto a la capa o a la máscara seleccionada.",
+                    "en": "The compact selector gives quick access to both modes. Its icon shows whether the anchor is relative to the layer or selected mask.",
+                    "pt-BR": "O seletor compacto dá acesso aos dois modos. O ícone indica se a âncora se move em relação à camada ou à máscara selecionada.",
+                    "fr": "Le sélecteur compact donne accès aux deux modes. Son icône indique si le point d’ancrage se rapporte au calque ou au masque sélectionné.",
+                    "de": "Die kompakte Auswahl bietet beide Modi. Das Symbol zeigt, ob der Ankerpunkt relativ zur Ebene oder zur ausgewählten Maske bewegt wird.",
+                    "it": "Il selettore compatto dà accesso a entrambe le modalità. L’icona indica se il punto di ancoraggio è relativo al livello o alla maschera selezionata."
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "es": "EDITKIT · Diagnóstico de problemas",
+            "en": "EDITKIT · Troubleshooting",
+            "pt-BR": "EDITKIT · Diagnóstico de problemas",
+            "fr": "EDITKIT · Diagnostic des problèmes",
+            "de": "EDITKIT · Fehlerdiagnose",
+            "it": "EDITKIT · Diagnostica dei problemi"
+          },
+          "blocks": [
+            {
+              "type": "image",
+              "image": {
+                "url": "https://raw.githubusercontent.com/zickfx/editkit-updates/main/assets/news/editkit-2.0.1/diagnostico.png",
+                "alt": {
+                  "es": "Diagnóstico opcional de problemas",
+                  "en": "Diagnóstico opcional de problemas",
+                  "pt-BR": "Diagnóstico opcional de problemas",
+                  "fr": "Diagnóstico opcional de problemas",
+                  "de": "Diagnóstico opcional de problemas",
+                  "it": "Diagnóstico opcional de problemas"
+                }
+              }
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "type": "text",
+                  "text": {
+                    "es": "El registro opcional ayuda a diagnosticar problemas. Está desactivado por defecto, guarda información localmente y nunca se envía automáticamente.",
+                    "en": "The optional log helps troubleshoot problems. It is off by default, stores information locally and is never sent automatically.",
+                    "pt-BR": "O registro opcional ajuda a diagnosticar problemas. Vem desativado por padrão, guarda informações localmente e nunca é enviado automaticamente.",
+                    "fr": "Le journal facultatif aide à diagnostiquer les problèmes. Il est désactivé par défaut, conserve les informations localement et n’est jamais envoyé automatiquement.",
+                    "de": "Das optionale Protokoll hilft bei der Fehlersuche. Es ist standardmäßig deaktiviert, speichert Informationen lokal und wird nie automatisch gesendet.",
+                    "it": "Il registro facoltativo aiuta a diagnosticare i problemi. È disattivato per impostazione predefinita, salva le informazioni in locale e non viene mai inviato automaticamente."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
