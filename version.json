@@ -2,23 +2,23 @@
   "schema": 1,
   "product": "com.zick.editkit.panel",
   "channel": "stable",
-  "version": "2.0.1",
-  "draft": false,
+  "version": "2.0.2",
+  "draft": true,
   "minimumUpdater": "1.0.0",
-  "url": "https://github.com/zickfx/editkit-updates/releases/download/v2.0.1/EDITKIT-2.0.1.zip",
-  "sha256": "44a4483f4f5c176e2ce87406705fdae35db6ab9a4ff0b6b565b374f3240fb16b",
+  "url": "https://github.com/zickfx/editkit-updates/releases/download/v2.0.2/EDITKIT-2.0.2.zip",
+  "sha256": "6366a230f845e423dae3d2edb2067233680352f7d9a9852d7e2812ddfa28b727",
   "package": {
-    "url": "https://github.com/zickfx/editkit-updates/releases/download/v2.0.1/EDITKIT-2.0.1.zip",
-    "bytes": 12167895,
-    "sha256": "44a4483f4f5c176e2ce87406705fdae35db6ab9a4ff0b6b565b374f3240fb16b"
+    "url": "https://github.com/zickfx/editkit-updates/releases/download/v2.0.2/EDITKIT-2.0.2.zip",
+    "bytes": 12184431,
+    "sha256": "6366a230f845e423dae3d2edb2067233680352f7d9a9852d7e2812ddfa28b727"
   },
   "releaseNotes": {
-    "es": "EDITKIT 2.0.1: una curva de velocidad editable y un AlignIt más claro.\nEaseIt: La curva de velocidad ahora se puede editar directamente y permanece vinculada a la curva principal. El control de vista destaca hasta que lo usas por primera vez.\nAlignIt: Selector compacto para cambiar entre Alinear y Ancla. El icono representa el objetivo actual: capa o máscara seleccionada.\nEDITKIT: El registro opcional sirve para diagnosticar problemas: guarda información local, está desactivado por defecto y nunca se envía automáticamente. El soporte de macOS ha sido validado por usuarios. CaptionIt, la separación de voz y la captura AEP requieren Windows.",
-    "en": "EDITKIT 2.0.1: an editable speed curve and a clearer AlignIt.\nEaseIt: The speed curve can now be edited directly and remains linked to the main curve. The view control stays highlighted until its first use.\nAlignIt: Compact selector for switching between Align and Anchor. The icon reflects the current target: layer or selected mask.\nEDITKIT: The optional log is for troubleshooting: it stores information locally, is off by default and is never sent automatically. macOS support has been validated by users. CaptionIt, voice separation and AEP capture require Windows.",
-    "pt-BR": "EDITKIT 2.0.1: curva de velocidade editável e AlignIt mais claro.\nEaseIt: A curva de velocidade agora pode ser editada diretamente e permanece vinculada à curva principal. O controle de visualização fica destacado até o primeiro uso.\nAlignIt: Seletor compacto para alternar entre Alinhar e Âncora. O ícone representa o alvo atual: camada ou máscara selecionada.\nEDITKIT: O registro opcional serve para diagnosticar problemas: guarda informações localmente, vem desativado por padrão e nunca é enviado automaticamente. O suporte para macOS foi validado por usuários. CaptionIt, separação de voz e captura AEP exigem Windows.",
-    "fr": "EDITKIT 2.0.1 : courbe de vitesse modifiable et AlignIt plus clair.\nEaseIt: La courbe de vitesse peut maintenant être modifiée directement et reste liée à la courbe principale. Le contrôle de vue reste mis en évidence jusqu’à sa première utilisation.\nAlignIt: Sélecteur compact pour passer d’Aligner à Ancre. L’icône indique la cible actuelle : calque ou masque sélectionné.\nEDITKIT: Le journal facultatif sert à diagnostiquer les problèmes : il reste local, est désactivé par défaut et n’est jamais envoyé automatiquement. La prise en charge de macOS a été validée par les utilisateurs. CaptionIt, la séparation vocale et la capture AEP nécessitent Windows.",
-    "de": "EDITKIT 2.0.1: editierbare Geschwindigkeitskurve und übersichtlicheres AlignIt.\nEaseIt: Die Geschwindigkeitskurve lässt sich jetzt direkt bearbeiten und bleibt mit der Hauptkurve verknüpft. Die Ansichtssteuerung bleibt bis zur ersten Nutzung hervorgehoben.\nAlignIt: Kompakte Auswahl zwischen Ausrichten und Anker. Das Symbol zeigt das aktuelle Ziel: Ebene oder ausgewählte Maske.\nEDITKIT: Das optionale Protokoll hilft bei der Fehlersuche, bleibt lokal, ist standardmäßig deaktiviert und wird nie automatisch gesendet. Nutzer haben die macOS-Unterstützung bestätigt. CaptionIt, Sprachtrennung und AEP-Erfassung benötigen Windows.",
-    "it": "EDITKIT 2.0.1: curva di velocità modificabile e AlignIt più chiaro.\nEaseIt: Ora puoi modificare direttamente la curva di velocità, che resta collegata alla curva principale. Il controllo della vista resta evidenziato fino al primo utilizzo.\nAlignIt: Selettore compatto per passare da Allinea ad Ancora. L’icona indica il bersaglio attuale: livello o maschera selezionata.\nEDITKIT: Il registro facoltativo serve a diagnosticare i problemi: resta locale, è disattivato per impostazione predefinita e non viene mai inviato automaticamente. Gli utenti hanno verificato il supporto macOS. CaptionIt, separazione vocale e acquisizione AEP richiedono Windows."
+    "es": "EDITKIT 2.0.2 corrige errores de EaseIt reportados por algunos usuarios y mejora el rebote, QuickIt y las ventanas auxiliares.",
+    "en": "EDITKIT 2.0.2 fixes EaseIt errors reported by some users and improves bounce visibility, QuickIt and auxiliary windows.",
+    "pt-BR": "EDITKIT 2.0.2 corrige erros do EaseIt relatados por alguns usuários e melhora o rebote, o QuickIt e as janelas auxiliares.",
+    "fr": "EDITKIT 2.0.2 corrige des erreurs d’EaseIt signalées par certains utilisateurs et améliore le rebond, QuickIt et les fenêtres auxiliaires.",
+    "de": "EDITKIT 2.0.2 behebt von einigen Nutzern gemeldete EaseIt-Fehler und verbessert Bounce, QuickIt und Zusatzfenster.",
+    "it": "EDITKIT 2.0.2 corregge errori di EaseIt segnalati da alcuni utenti e migliora rimbalzo, QuickIt e finestre aggiuntive."
   },
   "releasePage": "https://zickfx.com/b/editkit/"
 }
