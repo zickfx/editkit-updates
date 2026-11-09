@@ -3,7 +3,7 @@
   "product": "com.zick.editkit.panel",
   "channel": "stable",
   "version": "2.0.2",
-  "draft": true,
+  "draft": false,
   "minimumUpdater": "1.0.0",
   "url": "https://github.com/zickfx/editkit-updates/releases/download/v2.0.2/EDITKIT-2.0.2.zip",
   "sha256": "6366a230f845e423dae3d2edb2067233680352f7d9a9852d7e2812ddfa28b727",
