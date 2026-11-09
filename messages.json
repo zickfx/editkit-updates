@@ -593,6 +593,221 @@
           ]
         }
       ]
+    },
+    {
+      "id": "editkit-202-actualizacion",
+      "revision": 1,
+      "priority": "normal",
+      "publishedAt": "2026-11-09T01:47:57Z",
+      "startsAt": "2026-11-09T01:47:57Z",
+      "expiresAt": "2027-02-07T01:47:57Z",
+      "maxVersion": "2.0.1",
+      "hosts": [
+        "AEFT",
+        "PPRO"
+      ],
+      "title": {
+        "es": "EDITKIT 2.0.2 · Ver novedades",
+        "en": "EDITKIT 2.0.2 · What’s new",
+        "pt-BR": "EDITKIT 2.0.2 · Novidades",
+        "fr": "EDITKIT 2.0.2 · Nouveautés",
+        "de": "EDITKIT 2.0.2 · Neuigkeiten",
+        "it": "EDITKIT 2.0.2 · Novità"
+      },
+      "body": {
+        "es": "EDITKIT 2.0.2 ya está disponible. Mira las novedades y actualiza desde Ajustes, sección Versión.",
+        "en": "EDITKIT 2.0.2 is available. See what’s new, then update from Settings, under Version.",
+        "pt-BR": "EDITKIT 2.0.2 está disponível. Veja as novidades e atualize em Configurações, na seção Versão.",
+        "fr": "EDITKIT 2.0.2 est disponible. Découvrez les nouveautés puis mettez à jour dans Paramètres, section Version.",
+        "de": "EDITKIT 2.0.2 ist verfügbar. Sieh dir die Neuerungen an und aktualisiere unter Einstellungen im Bereich Version.",
+        "it": "EDITKIT 2.0.2 è disponibile. Scopri le novità e aggiorna da Impostazioni, sezione Versione."
+      },
+      "pages": [
+        {
+          "title": {
+            "es": "EaseIt · Corrección de errores de curvas",
+            "en": "EaseIt · Curve error fixes",
+            "pt-BR": "EaseIt · Correção de erros nas curvas",
+            "fr": "EaseIt · Corrections des erreurs de courbe",
+            "de": "EaseIt · Fehlerbehebungen beim Lesen von Kurven",
+            "it": "EaseIt · Correzione degli errori nelle curve"
+          },
+          "blocks": [
+            {
+              "type": "image",
+              "image": {
+                "url": "https://raw.githubusercontent.com/zickfx/editkit-updates/main/assets/news/editkit-2.0.2/easeit-correcciones.png",
+                "alt": {
+                  "es": "EaseIt · Corrección de errores de curvas",
+                  "en": "EaseIt · Curve error fixes",
+                  "pt-BR": "EaseIt · Correção de erros nas curvas",
+                  "fr": "EaseIt · Corrections des erreurs de courbe",
+                  "de": "EaseIt · Fehlerbehebungen beim Lesen von Kurven",
+                  "it": "EaseIt · Correzione degli errori nelle curve"
+                }
+              }
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "type": "text",
+                  "text": {
+                    "es": "Se corrigieron errores de lectura y aplicación de curvas reportados por algunos usuarios.",
+                    "en": "Fixed curve reading and application errors reported by some users.",
+                    "pt-BR": "Foram corrigidos erros de leitura e aplicação de curvas relatados por alguns usuários.",
+                    "fr": "Les erreurs de lecture et d’application des courbes signalées par certains utilisateurs ont été corrigées.",
+                    "de": "Gemeldete Fehler beim Lesen und Anwenden von Kurven wurden behoben.",
+                    "it": "Sono stati corretti gli errori di lettura e applicazione delle curve segnalati da alcuni utenti."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "type": "text",
+                  "text": {
+                    "es": "Se revisó la comunicación entre EaseIt y After Effects durante la lectura de curvas para corregir respuestas que podían impedir cargarlas o aplicarlas correctamente. Gracias a @raizennon por compartir un diagnóstico técnico detallado y probar la compilación de soporte; sus reportes ayudaron a localizar y corregir este fallo.",
+                    "en": "EaseIt’s communication with After Effects while reading curves was corrected to address responses that could prevent them from loading or applying correctly. Thanks to @raizennon for sharing a detailed technical diagnostic and testing the support build; the reports helped us locate and fix this issue.",
+                    "pt-BR": "A comunicação entre o EaseIt e o After Effects durante a leitura de curvas foi corrigida para lidar com respostas que podiam impedir o carregamento ou a aplicação correta. Agradecemos a @raizennon por compartilhar um diagnóstico técnico detalhado e testar a versão de suporte; os relatos ajudaram a localizar e corrigir o problema.",
+                    "fr": "La communication entre EaseIt et After Effects lors de la lecture des courbes a été corrigée pour traiter les réponses qui pouvaient empêcher leur chargement ou leur application. Merci à @raizennon d’avoir partagé un diagnostic technique détaillé et testé la version de support ; ses retours ont aidé à localiser et corriger ce problème.",
+                    "de": "Die Kommunikation zwischen EaseIt und After Effects beim Lesen von Kurven wurde angepasst, um Antworten zu behandeln, die das korrekte Laden oder Anwenden verhindern konnten. Vielen Dank an @raizennon für den ausführlichen technischen Bericht und das Testen der Support-Version. Die Rückmeldungen halfen, den Fehler zu finden und zu beheben.",
+                    "it": "È stata corretta la comunicazione tra EaseIt e After Effects durante la lettura delle curve per gestire risposte che potevano impedirne il corretto caricamento o l’applicazione. Grazie a @raizennon per aver condiviso una diagnosi tecnica dettagliata e provato la versione di supporto; le segnalazioni hanno aiutato a individuare e correggere il problema."
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "es": "EaseIt · Rebote visible en velocidad",
+            "en": "EaseIt · Bounce visible in speed view",
+            "pt-BR": "EaseIt · Rebote visível na velocidade",
+            "fr": "EaseIt · Rebond visible en vue vitesse",
+            "de": "EaseIt · Bounce in der Geschwindigkeitsansicht",
+            "it": "EaseIt · Rimbalzo visibile nella vista velocità"
+          },
+          "blocks": [
+            {
+              "type": "image",
+              "image": {
+                "url": "https://raw.githubusercontent.com/zickfx/editkit-updates/main/assets/news/editkit-2.0.2/easeit-rebote.png",
+                "alt": {
+                  "es": "EaseIt · Rebote visible en velocidad",
+                  "en": "EaseIt · Bounce visible in speed view",
+                  "pt-BR": "EaseIt · Rebote visível na velocidade",
+                  "fr": "EaseIt · Rebond visible en vue vitesse",
+                  "de": "EaseIt · Bounce in der Geschwindigkeitsansicht",
+                  "it": "EaseIt · Rimbalzo visibile nella vista velocità"
+                }
+              }
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "type": "text",
+                  "text": {
+                    "es": "La vista de velocidad conserva los cambios de dirección del rebote. El papel cebolla muestra también su recorrido en esta vista.",
+                    "en": "The speed view preserves bounce direction changes. Onion skin also shows the bounce path in this view.",
+                    "pt-BR": "A visualização de velocidade preserva as mudanças de direção do rebote. A sobreposição também mostra o percurso nesta visualização.",
+                    "fr": "La vue de vitesse conserve les changements de direction du rebond. La superposition montre aussi son parcours dans cette vue.",
+                    "de": "Die Geschwindigkeitsansicht erhält die Richtungswechsel des Bounces. Die Überlagerung zeigt den Bounce-Verlauf auch in dieser Ansicht.",
+                    "it": "La vista velocità mantiene i cambi di direzione del rimbalzo. La sovrapposizione ne mostra il percorso anche in questa vista."
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "es": "QuickIt · Busca acciones del plugin",
+            "en": "QuickIt · Search plugin actions",
+            "pt-BR": "QuickIt · Busque ações do plugin",
+            "fr": "QuickIt · Rechercher les actions du plugin",
+            "de": "QuickIt · Plugin-Aktionen suchen",
+            "it": "QuickIt · Cerca le azioni del plugin"
+          },
+          "blocks": [
+            {
+              "type": "image",
+              "image": {
+                "url": "https://raw.githubusercontent.com/zickfx/editkit-updates/main/assets/news/editkit-2.0.2/quickit-busqueda.png",
+                "alt": {
+                  "es": "QuickIt · Busca acciones del plugin",
+                  "en": "QuickIt · Search plugin actions",
+                  "pt-BR": "QuickIt · Busque ações do plugin",
+                  "fr": "QuickIt · Rechercher les actions du plugin",
+                  "de": "QuickIt · Plugin-Aktionen suchen",
+                  "it": "QuickIt · Cerca le azioni del plugin"
+                }
+              }
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "type": "text",
+                  "text": {
+                    "es": "Encuentra acciones de QuickIt junto con efectos y presets. Búsqueda, colecciones y presets pueden quedar en la cabecera.",
+                    "en": "Find QuickIt actions alongside effects and presets. Keep search, collections and presets in the header.",
+                    "pt-BR": "Encontre ações do QuickIt junto com efeitos e presets. Deixe busca, coleções e presets no cabeçalho.",
+                    "fr": "Recherchez les actions QuickIt avec les effets et les préréglages. Gardez la recherche, les collections et les préréglages dans l’en-tête.",
+                    "de": "Suche nach QuickIt-Aktionen zusammen mit Effekten und Vorgaben. Suche, Sammlungen und Vorgaben lassen sich in der Kopfzeile anzeigen.",
+                    "it": "Trova le azioni QuickIt insieme a effetti e preset. Puoi tenere ricerca, raccolte e preset nell’intestazione."
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "es": "EDITKIT · Ventanas auxiliares",
+            "en": "EDITKIT · Auxiliary windows",
+            "pt-BR": "EDITKIT · Janelas auxiliares",
+            "fr": "EDITKIT · Fenêtres auxiliaires",
+            "de": "EDITKIT · Zusatzfenster",
+            "it": "EDITKIT · Finestre aggiuntive"
+          },
+          "blocks": [
+            {
+              "type": "image",
+              "image": {
+                "url": "https://raw.githubusercontent.com/zickfx/editkit-updates/main/assets/news/editkit-2.0.2/editkit-ventanas.png",
+                "alt": {
+                  "es": "EDITKIT · Ventanas auxiliares",
+                  "en": "EDITKIT · Auxiliary windows",
+                  "pt-BR": "EDITKIT · Janelas auxiliares",
+                  "fr": "EDITKIT · Fenêtres auxiliaires",
+                  "de": "EDITKIT · Zusatzfenster",
+                  "it": "EDITKIT · Finestre aggiuntive"
+                }
+              }
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "type": "text",
+                  "text": {
+                    "es": "Las ventanas auxiliares se gestionan de forma independiente para reducir fallos al abrirlas y cerrarlas.",
+                    "en": "Auxiliary windows are handled independently to reduce failures when opening or closing them.",
+                    "pt-BR": "As janelas auxiliares são gerenciadas de forma independente para reduzir falhas ao abrir ou fechar.",
+                    "fr": "Les fenêtres auxiliaires sont gérées indépendamment pour réduire les erreurs à l’ouverture et à la fermeture.",
+                    "de": "Zusatzfenster werden unabhängig verwaltet, um Fehler beim Öffnen und Schließen zu reduzieren.",
+                    "it": "Le finestre aggiuntive vengono gestite separatamente per ridurre gli errori durante l’apertura e la chiusura."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
