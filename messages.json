@@ -3,6 +3,248 @@
   "product": "com.zick.editkit.panel",
   "messages": [
     {
+      "id": "editkit-203-actualizacion",
+      "revision": 1,
+      "priority": "normal",
+      "publishedAt": "2026-11-17T03:33:22Z",
+      "startsAt": "2026-11-17T03:33:22Z",
+      "expiresAt": "2027-02-15T03:33:22Z",
+      "minVersion": "1.0.20",
+      "maxVersion": "2.0.2",
+      "hosts": [
+        "AEFT",
+        "PPRO"
+      ],
+      "title": {
+        "es": "EDITKIT 2.0.3 · Novedades",
+        "en": "EDITKIT 2.0.3 · What’s new",
+        "pt-BR": "EDITKIT 2.0.3 · Novidades",
+        "fr": "EDITKIT 2.0.3 · Nouveautés",
+        "de": "EDITKIT 2.0.3 · Neuigkeiten",
+        "it": "EDITKIT 2.0.3 · Novità"
+      },
+      "body": {
+        "es": "EDITKIT 2.0.3 ya está disponible. Revisa las novedades y actualiza desde Ajustes, sección Versión.",
+        "en": "EDITKIT 2.0.3 is available. See what’s new and update from Settings, under Version.",
+        "pt-BR": "EDITKIT 2.0.3 está disponível. Veja as novidades e atualize em Configurações, na seção Versão.",
+        "fr": "EDITKIT 2.0.3 est disponible. Découvrez les nouveautés et mettez à jour dans Paramètres, section Version.",
+        "de": "EDITKIT 2.0.3 ist verfügbar. Sieh dir die Neuerungen an und aktualisiere unter Einstellungen im Bereich Version.",
+        "it": "EDITKIT 2.0.3 è disponibile. Scopri le novità e aggiorna da Impostazioni, sezione Versione."
+      },
+      "pages": [
+        {
+          "title": {
+            "es": "Mover capas a · Alinea capas al cabezal",
+            "en": "Move Layers To · Align layers to the playhead",
+            "pt-BR": "Mover camadas para · Alinhe ao indicador",
+            "fr": "Déplacer les calques vers · Aligner sur la tête de lecture",
+            "de": "Ebenen verschieben · Am Abspielkopf ausrichten",
+            "it": "Sposta livelli a · Allinea alla testina"
+          },
+          "blocks": [
+            {
+              "type": "image",
+              "image": {
+                "url": "https://raw.githubusercontent.com/zickfx/editkit-updates/main/assets/news/editkit-2.0.3-mover-capas.png",
+                "alt": {
+                  "es": "Mover capas a: alineación de capas en el cabezal y en grupo",
+                  "en": "Move Layers To: align layers to the playhead or as a group",
+                  "pt-BR": "Mover camadas para: alinhar ao indicador ou como grupo",
+                  "fr": "Déplacer les calques vers la tête de lecture ou en groupe",
+                  "de": "Ebenen am Abspielkopf oder als Gruppe ausrichten",
+                  "it": "Sposta i livelli alla testina o come gruppo"
+                }
+              }
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "type": "text",
+                  "text": {
+                    "es": "Alinea los inicios o finales al cabezal, o mueve las capas como grupo conservando sus separaciones.",
+                    "en": "Align layer starts or ends to the playhead, or move the group while preserving spacing.",
+                    "pt-BR": "Alinhe inícios ou finais ao indicador, ou mova o grupo mantendo os intervalos.",
+                    "fr": "Alignez les débuts ou fins sur la tête de lecture, ou déplacez le groupe en conservant les écarts.",
+                    "de": "Richte Ebenenanfänge oder -enden am Abspielkopf aus oder verschiebe die Gruppe mit erhaltenen Abständen.",
+                    "it": "Allinea inizi o finali alla testina oppure sposta il gruppo mantenendo le distanze."
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "es": "Nuevo · Módulos recientes",
+            "en": "New · Recent modules",
+            "pt-BR": "Novo · Módulos recentes",
+            "fr": "Nouveau · Modules récents",
+            "de": "Neu · Neue Module",
+            "it": "Nuovo · Moduli recenti"
+          },
+          "blocks": [
+            {
+              "type": "image",
+              "image": {
+                "url": "https://raw.githubusercontent.com/zickfx/editkit-updates/main/assets/news/editkit-2.0.3-modulos-nuevos.png",
+                "alt": {
+                  "es": "Distribución Nuevo de EDITKIT",
+                  "en": "EDITKIT New workspace",
+                  "pt-BR": "Área Novo do EDITKIT",
+                  "fr": "Espace Nouveau d’EDITKIT",
+                  "de": "EDITKIT-Arbeitsbereich Neu",
+                  "it": "Spazio Nuovo di EDITKIT"
+                }
+              }
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "type": "text",
+                  "text": {
+                    "es": "Los módulos recientes aparecen en la distribución Nuevo. Mover capas a es estable; las herramientas de IA siguen siendo experimentales.",
+                    "en": "Recent modules appear in the New workspace. Move Layers To is stable; AI tools remain experimental.",
+                    "pt-BR": "Os módulos recentes aparecem na área Novo. Mover camadas para é estável; as ferramentas de IA continuam experimentais.",
+                    "fr": "Les modules récents apparaissent dans l’espace Nouveau. Déplacer les calques vers est stable ; les outils d’IA restent expérimentaux.",
+                    "de": "Neue Module erscheinen im Arbeitsbereich Neu. Ebenen verschieben ist stabil; KI-Werkzeuge bleiben experimentell.",
+                    "it": "I moduli recenti sono nello spazio Nuovo. Sposta livelli a è stabile; gli strumenti IA restano sperimentali."
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "es": "Movimiento fluido · Interpolación",
+            "en": "Fluid Motion · Frame interpolation",
+            "pt-BR": "Movimento fluido · Interpolação",
+            "fr": "Mouvement fluide · Interpolation",
+            "de": "Flüssige Bewegung · Interpolation",
+            "it": "Movimento fluido · Interpolazione"
+          },
+          "blocks": [
+            {
+              "type": "image",
+              "image": {
+                "url": "https://raw.githubusercontent.com/zickfx/editkit-updates/main/assets/news/editkit-2.0.3-movimiento-fluido.png",
+                "alt": {
+                  "es": "Movimiento fluido: fotogramas originales e interpolados",
+                  "en": "Fluid Motion: original and interpolated frames",
+                  "pt-BR": "Movimento fluido: quadros originais e interpolados",
+                  "fr": "Mouvement fluide : images originales et interpolées",
+                  "de": "Flüssige Bewegung: Original- und Zwischenbilder",
+                  "it": "Movimento fluido: fotogrammi originali e interpolati"
+                }
+              }
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "type": "text",
+                  "text": {
+                    "es": "Genera fotogramas entre los originales para suavizar el movimiento. Incluye los modos 8× y Suave.",
+                    "en": "Generate frames between the originals to smooth motion. Includes 8× and Smooth modes.",
+                    "pt-BR": "Gere quadros entre os originais para suavizar o movimento. Inclui os modos 8× e Suave.",
+                    "fr": "Générez des images entre les originales pour fluidifier le mouvement. Modes 8× et Doux inclus.",
+                    "de": "Erzeuge Zwischenbilder für flüssigere Bewegungen. Mit 8×- und Sanft-Modus.",
+                    "it": "Genera fotogrammi tra gli originali per rendere il movimento più fluido. Include le modalità 8× e Morbida."
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "es": "EaseIt · Editor de velocidad",
+            "en": "EaseIt · Speed editor",
+            "pt-BR": "EaseIt · Editor de velocidade",
+            "fr": "EaseIt · Éditeur de vitesse",
+            "de": "EaseIt · Geschwindigkeitseditor",
+            "it": "EaseIt · Editor velocità"
+          },
+          "blocks": [
+            {
+              "type": "image",
+              "image": {
+                "url": "https://raw.githubusercontent.com/zickfx/editkit-updates/main/assets/news/editkit-2.0.3-easeit-velocidad.png",
+                "alt": {
+                  "es": "Editor de velocidad de EaseIt",
+                  "en": "EaseIt speed editor",
+                  "pt-BR": "Editor de velocidade do EaseIt",
+                  "fr": "Éditeur de vitesse EaseIt",
+                  "de": "EaseIt-Geschwindigkeitseditor",
+                  "it": "Editor della velocità EaseIt"
+                }
+              }
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "type": "text",
+                  "text": {
+                    "es": "Los manejadores permanecen dentro del gráfico y la curva ya no salta al moverlos.",
+                    "en": "Handles stay inside the graph, and the curve no longer jumps while you drag.",
+                    "pt-BR": "As alças permanecem dentro do gráfico, e a curva não salta ao arrastá-las.",
+                    "fr": "Les poignées restent dans le graphique et la courbe ne saute plus pendant le glissement.",
+                    "de": "Die Griffe bleiben im Diagramm; beim Ziehen springt die Kurve nicht mehr.",
+                    "it": "Le maniglie restano nel grafico e la curva non salta più durante il trascinamento."
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "es": "Reorganiza botones · Mantén pulsado",
+            "en": "Rearrange buttons · Press and hold",
+            "pt-BR": "Reorganize botões · Mantenha pressionado",
+            "fr": "Réorganiser les boutons · Maintenir",
+            "de": "Schaltflächen anordnen · Gedrückt halten",
+            "it": "Riordina pulsanti · Tieni premuto"
+          },
+          "blocks": [
+            {
+              "type": "image",
+              "image": {
+                "url": "https://raw.githubusercontent.com/zickfx/editkit-updates/main/assets/news/editkit-2.0.3-organizar-botones.png",
+                "alt": {
+                  "es": "Modo para organizar botones de módulos",
+                  "en": "Module button arrangement mode",
+                  "pt-BR": "Modo de organização dos botões do módulo",
+                  "fr": "Mode de réorganisation des boutons du module",
+                  "de": "Anordnungsmodus für Modulschaltflächen",
+                  "it": "Modalità di riordino dei pulsanti del modulo"
+                }
+              }
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "type": "text",
+                  "text": {
+                    "es": "Mantén pulsado un botón compatible para entrar al modo de organización. Guarda con Listo o sal con Escape.",
+                    "en": "Press and hold a supported button to enter arrangement mode. Save with Done or exit with Escape.",
+                    "pt-BR": "Mantenha pressionado um botão compatível para entrar no modo de organização. Salve em Concluído ou saia com Escape.",
+                    "fr": "Maintenez un bouton compatible pour passer en mode organisation. Validez avec Terminé ou quittez avec Échap.",
+                    "de": "Halte eine unterstützte Schaltfläche gedrückt, um den Anordnungsmodus zu öffnen. Mit Fertig speichern oder mit Esc beenden.",
+                    "it": "Tieni premuto un pulsante compatibile per organizzare. Salva con Fine o esci con Esc."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "editkit-110-nuevas-herramientas",
       "revision": 1,
       "priority": "normal",
