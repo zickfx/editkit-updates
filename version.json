@@ -2,23 +2,23 @@
   "schema": 1,
   "product": "com.zick.editkit.panel",
   "channel": "stable",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "draft": false,
   "minimumUpdater": "1.0.0",
-  "url": "https://github.com/zickfx/editkit-updates/releases/download/v2.0.2/EDITKIT-2.0.2.zip",
-  "sha256": "6366a230f845e423dae3d2edb2067233680352f7d9a9852d7e2812ddfa28b727",
+  "url": "https://github.com/zickfx/editkit-updates/releases/download/v2.0.3/EDITKIT-2.0.3.zip",
+  "sha256": "3b0e7f9ec18045a93607299496453080841ab8c033ce5f60b67890a9cede1048",
   "package": {
-    "url": "https://github.com/zickfx/editkit-updates/releases/download/v2.0.2/EDITKIT-2.0.2.zip",
-    "bytes": 12184431,
-    "sha256": "6366a230f845e423dae3d2edb2067233680352f7d9a9852d7e2812ddfa28b727"
+    "url": "https://github.com/zickfx/editkit-updates/releases/download/v2.0.3/EDITKIT-2.0.3.zip",
+    "bytes": 12545331,
+    "sha256": "3b0e7f9ec18045a93607299496453080841ab8c033ce5f60b67890a9cede1048"
   },
   "releaseNotes": {
-    "es": "EDITKIT 2.0.2 corrige errores de EaseIt reportados por algunos usuarios y mejora el rebote, QuickIt y las ventanas auxiliares.",
-    "en": "EDITKIT 2.0.2 fixes EaseIt errors reported by some users and improves bounce visibility, QuickIt and auxiliary windows.",
-    "pt-BR": "EDITKIT 2.0.2 corrige erros do EaseIt relatados por alguns usuários e melhora o rebote, o QuickIt e as janelas auxiliares.",
-    "fr": "EDITKIT 2.0.2 corrige des erreurs d’EaseIt signalées par certains utilisateurs et améliore le rebond, QuickIt et les fenêtres auxiliaires.",
-    "de": "EDITKIT 2.0.2 behebt von einigen Nutzern gemeldete EaseIt-Fehler und verbessert Bounce, QuickIt und Zusatzfenster.",
-    "it": "EDITKIT 2.0.2 corregge errori di EaseIt segnalati da alcuni utenti e migliora rimbalzo, QuickIt e finestre aggiuntive."
+    "es": "EDITKIT 2.0.3 incorpora Mover capas a y reúne seis herramientas de IA experimentales en la sección Nuevo. También renueva la preview de Movimiento fluido y mejora el editor de velocidad de EaseIt.",
+    "en": "EDITKIT 2.0.3 adds Move Layers To and brings six experimental AI tools together in the New section. It also updates the Fluid Motion preview and improves EaseIt's speed editor.",
+    "pt-BR": "EDITKIT 2.0.3 adiciona Mover camadas para e reúne seis ferramentas experimentais de IA na seção Novo. Também atualiza a prévia de Movimento fluido e melhora o editor de velocidade do EaseIt.",
+    "fr": "EDITKIT 2.0.3 ajoute Déplacer les calques vers et regroupe six outils d’IA expérimentaux dans la section Nouveau. L’aperçu de Mouvement fluide est également actualisé et l’éditeur de vitesse d’EaseIt amélioré.",
+    "de": "EDITKIT 2.0.3 ergänzt Ebenen verschieben nach und bündelt sechs experimentelle KI-Werkzeuge im Bereich Neu. Außerdem wurde die Vorschau für Flüssige Bewegung aktualisiert und der Geschwindigkeitseditor von EaseIt verbessert.",
+    "it": "EDITKIT 2.0.3 aggiunge Sposta livelli a e riunisce sei strumenti IA sperimentali nella sezione Nuovo. Aggiorna anche l’anteprima di Movimento fluido e migliora l’editor della velocità di EaseIt."
   },
   "releasePage": "https://zickfx.com/b/editkit/"
 }
